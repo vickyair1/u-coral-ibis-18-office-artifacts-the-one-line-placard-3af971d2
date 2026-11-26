@@ -1,0 +1,1 @@
+Write a museum placard for an ordinary office object presented as an ancient artifact, a single line under 180 characters, as a deterministic Python program that prints exactly that line to stdout and writes it to /output/entry.txt.
